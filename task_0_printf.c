@@ -2,6 +2,7 @@
 /**
  * Printf - returns number of characters in a string
  * Return: 0
+ * @format: pointer to a null terminated char
  */
 int _printf(const char *format, ...);
 {
